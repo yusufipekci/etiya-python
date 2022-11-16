@@ -1,11 +1,11 @@
 print("Merhaba Etiya")
 
 
-# string = metinsel ifade
+#! string = metinsel ifade
 text = "10"
 print(text)
 
-# integer = tam sayı
+#! integer = tam sayı
 number = 10
 print(number)
 
