@@ -25,7 +25,7 @@ print(number % 3) #! bölümünden kalan sonuç
 isVerified = True
 
 #! mantıksal, karşılaştırma operatörleri
-#!  => her mantıksal operatör boolean değer döner
+#! => her mantıksal operatör boolean değer döner
 print(1 == 2)
 print(2 != 2)
 
@@ -50,7 +50,7 @@ print(text.startswith("Mer"))
 print(text.endswith("Etiya"))
 
 name = "Halit"
-age = "23"
+age = 23
 company = "Kodlamaio"
 
 #! Halit 23 yaşında Kodlamaio'da çalışıyor.
